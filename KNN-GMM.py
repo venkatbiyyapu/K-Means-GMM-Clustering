@@ -1,5 +1,4 @@
 # Databricks notebook source
-#Homework3 , Q3
 from pyspark.sql import SparkSession
 from pyspark.sql import Row
 from pyspark.sql.types import *

@@ -15,8 +15,8 @@ This implementation uses the Iris dataset, which is a classic dataset for cluste
 ## Installation Instructions
 1. **Clone the Repository (if applicable)**:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/venkatbiyyapu/K-Means-GMM-Clustering.git
+   cd K-Means-GMM-Clustering
    ```
 
 2. **Set Up the Databricks Environment**:
